@@ -1,4 +1,4 @@
-###Human Activity Recognition Using Smartphones Dataset. Version 1.0  
+###Human Activity Recognition Using Smartphones Dataset  
 ####Author: Coursera2015 (Getting and cleaning data, January 2015)
 ******
 ###Usage
